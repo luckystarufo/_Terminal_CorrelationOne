@@ -18,6 +18,7 @@ starter-algo
  ├──algo_strategy.py
  ├──README.md
  └──run.sh
+ 
 ```
 
 ## Strategy Notes
