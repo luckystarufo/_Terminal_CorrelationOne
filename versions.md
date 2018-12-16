@@ -1,7 +1,8 @@
 ### ALGO VERSION SUMMARY
-#### V0: based on intuitions & feedback from matches
-- v0.1: attacking channel with PINGs; DESTRUCTORS away from the front line;
+#### V0: based on intuitions & feedback from matches ...
+- v0.1: Inspired by BLACKBEARD: attacking channel with PINGs; DESTRUCTORS away from the front line;
 FILTERs guides the way.
+- v0.2: 
 
-#### V1
-#### V2
+#### V1: metric driven, coming soon ...
+#### V2: adaptive (learning?), coming soon ...
