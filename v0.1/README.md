@@ -15,6 +15,8 @@ starter-algo
  │   ├──tests.py
  │   ├──unit.py
  │   └──util.py
+ ├──defensive_data.txt
+ ├──defensive_img.png
  ├──algo_strategy.py
  ├──README.md
  └──run.sh
