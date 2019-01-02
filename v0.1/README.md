@@ -3,7 +3,7 @@
 ## File Overview
 
 ```
-starter-algo
+v0.1
  │
  ├──gamelib
  │   ├──__init__.py

@@ -1,9 +1,9 @@
-# my v0.1 algo
+# my v1.2 algo
 
 ## File Overview
 
 ```
-starter-algo
+v1.2
  │
  ├──gamelib
  │   ├──__init__.py
