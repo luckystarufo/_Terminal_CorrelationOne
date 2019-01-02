@@ -25,17 +25,16 @@ starter-algo
 
 ## Strategy Notes
 ### Ideas
-1. Inspired by BLACKBEARD Algo, we build up a offensive channel (ont the right)
-and use the PINGs to attack.
-2. We build other DESTRUCTORS away from the front lines to avoid the attacks from
-enemy's EMPs.
-3. Use FILTERs to guide enemy's information units in general to avoid a direct attack.
+1. Inspired by Transistors 1.4, credit to @kkroep
+2. created a hierarchical defense system
+3. fix our defense in terms of damage of last round
+4. regional analysis of the battles
 
 ### Feedbacks
 
 
-### Performance (12/15/2018 23:43)
-1. 22 WINS | 20 LOST
-2. ELO: 1543
+### Performance (01/01/2019 23:25)
+1. 51 WINS | 48 LOST
+2. ELO: 1538
 
 
