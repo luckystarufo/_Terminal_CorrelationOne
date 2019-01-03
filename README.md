@@ -3,7 +3,7 @@
 algorithms that automate play of the game. Top coders from around the world showcase their algos in live e-sports 
 tournaments, playing for cash prizes, exclusive job opportunities, and global acclaim.
 
-## Note: This repo doesn't provide my code anymore, as requested by Correlation One. They told me not to share complete algos, as people will continue to work for a while and can be uploaded ‘as is’ which creates some issues.
+[Note: This repo doesn't provide my codes anymore, as requested by Correlation One. They told me not to share complete algos.  The goal of the competition is not to find the best solution together, but to provide an interesting programming challenge for individuals. People should build their own code base and gain understanding of the (surprisingly complex) game that way.]
 
 
 ## Structure
